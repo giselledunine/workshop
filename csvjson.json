@@ -1,0 +1,5960 @@
+[
+  {
+    "id": 79741882732366200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 rue Firmin Gillot",
+    "postCode": 75015,
+    "city": "Paris",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 24735923110043300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "80 Boulevard Serurier",
+    "postCode": 75019,
+    "city": "Paris",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 31307338585697500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "32 AVENUE DE CHOISY",
+    "postCode": 94190,
+    "city": "VILLENEUVE SAINT GEORGES",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 93399257754067000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 avenue des Sycomores",
+    "postCode": 78320,
+    "city": "Le Mesnil Saint Denis",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 13467231060580300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue de Turenne",
+    "postCode": 75004,
+    "city": "Paris",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 13117806652652300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "38 B rue guynemer",
+    "postCode": 93600,
+    "city": "Aulney sous Bois",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 89647935755662400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6 allée Séverine",
+    "postCode": 93320,
+    "city": "Les Pavillons Sous Bois",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 86858554588632000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue de la fosse parquée",
+    "postCode": 95130,
+    "city": "Franconville",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 9995429226166310000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 rue Jean Dorlac",
+    "postCode": 77500,
+    "city": "Chelles",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 91181079968733800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "20 RUE DU GRAND NOYER",
+    "postCode": 91620,
+    "city": "LA VILLE DU BOIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 24996403752225700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "118 avenue du General Leclerc",
+    "postCode": 92340,
+    "city": "Bourg la Reine",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 61005030738821800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "7p boulevard jourdan, Andre de Gouveia, Maison du Portugal",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 7758987254862530000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 rue des peupliers",
+    "postCode": 78650,
+    "city": "Beynes",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 53844889929424000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 Rue Vandamme",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 84497724553595200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "66 BOULEVARD DE REUILLY",
+    "postCode": "75 012",
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 7019703329228560000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 rue Cavallotti",
+    "postCode": 75018,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 50654720485042800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 rue de Saint Bon",
+    "postCode": 75004,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 53770876165349700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 rue du Cordelier",
+    "postCode": 77340,
+    "city": "Pontault-Combault",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 42142684995356700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 square Adanson",
+    "postCode": 75005,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 48608857980095800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "30 Rue Edmond Michelet",
+    "postCode": 93250,
+    "city": "Villemomble",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 27810218631029300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "60 RUE DE VILLACOUBLAY",
+    "postCode": 78140,
+    "city": "VELIZY VILLACOUBLAY",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 37052383115290900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "26 bis rue Saint-Louis",
+    "postCode": 78000,
+    "city": "Versailles",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 15342307442817000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "84 rue du 22 septembre",
+    "postCode": 92400,
+    "city": "Courbevoie",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 63292494007418500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "74 rue Claude Bernard",
+    "postCode": 75005,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 63988532933340200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6 RUE DE PARIS",
+    "postCode": 77163,
+    "city": "MONTCERF",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 45167402822956100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 RESIDENCE DES CHATAIGNIERS",
+    "postCode": 92380,
+    "city": "GARCHES",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 96879405645601300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "83 rue Louise Michel",
+    "postCode": 92300,
+    "city": "LEVALLOIS PERRET",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 72286693680987100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "21 avenue du Docteur Fleming",
+    "postCode": 92600,
+    "city": "Asnières sur Seine",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 16375307146683900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue de la gare",
+    "postCode": 92300,
+    "city": "LEVALLOIS PERRET",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 66756598363986900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 rue Roli",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 382584204963085000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75002,
+    "city": "PARIS",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 1780338419706640000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "69 avenue de la Marne",
+    "postCode": 92600,
+    "city": "Asnières sur Seine",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 98120170076380700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "13 RUE DES COQUELICOTS",
+    "postCode": 77440,
+    "city": "MARY SUR MARNE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 40525172374868100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "25 RUE GEOFFROY SAINT HILAIRE",
+    "postCode": 75005,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 55902835803964900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "18 rue de la Republique",
+    "postCode": 93230,
+    "city": "Romainville",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 92346416603826500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "149 rue du maréchal leclerc",
+    "postCode": 94410,
+    "city": "Saint maurice",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 92596118987375100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "45 BOULEVARD DE VERDUN",
+    "postCode": 92400,
+    "city": "Courbevoie",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 67485323856276600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 boulevard jean mermoz",
+    "postCode": 92200,
+    "city": "neuilly sur seine",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 29973965324313200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "62 rue Victor Hugo",
+    "postCode": 94700,
+    "city": "MAISONS ALFORT",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 10663588195906000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 92220,
+    "city": "BAGNEUX",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 4555954785778050000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "42 rue du Hameau",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 34185699101729900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 RUE DU DAUPHIN",
+    "postCode": 77370,
+    "city": "Nangis",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 23001312493992400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 RUE DE LA TERRASSE",
+    "postCode": 91360,
+    "city": "EPINAY-SUR-ORGE",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 37825599519017300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 26895409161363200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue de Furstenfeldbruck",
+    "postCode": 93190,
+    "city": "Livry-Gargan",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 7278174627933640000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 chemin des Servins",
+    "postCode": 77100,
+    "city": "Nanteuil-les-Meaux",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 43961223624738300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "25 Rue Pierre Gilles de Gennes",
+    "postCode": 92160,
+    "city": "ANTONY",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 95604165262064400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "103 rue de la Republique",
+    "postCode": 95100,
+    "city": "ARGENTEUIL",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 79752694696856800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "75 rue de Caumartin",
+    "postCode": 75009,
+    "city": "Paris",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 97244283125426700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "3 allée du coq chantant",
+    "postCode": 60500,
+    "city": "Chantilly",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 34030729958205100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 avenue Léon Eyrolles",
+    "postCode": 94230,
+    "city": "Cachan",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 88428762496723600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 rue de l'Esperance",
+    "postCode": 76120,
+    "city": "Le Grand Quevilly",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 7360734219576790000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "17 rue des hortensias",
+    "postCode": 91140,
+    "city": "Villebon sur Yvette",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 67936952632105000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 57062989285181200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 rue Heyrault",
+    "postCode": 92100,
+    "city": "Boulogne Billancourt",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 94199528892092300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "46 rue D'AVRON",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 21321757220161000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "112 rue de la Paix",
+    "postCode": 78500,
+    "city": "sartrouville",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 195908493114776000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "27 ALLEE DES CAVALIERS",
+    "postCode": 94700,
+    "city": "MAISONS ALFORT",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 91569812887697700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Chapu",
+    "postCode": 75016,
+    "city": "Paris",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 9715074391521320000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "17 avenue du marechal Juin",
+    "postCode": 93260,
+    "city": "Les Lilas",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 39693847638323900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "61 bis rue du Parc",
+    "postCode": 95310,
+    "city": "Saint Ouen L'Aumone",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 38005169981757800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 RUE GEORGES COLLIN",
+    "postCode": 91320,
+    "city": "WISSOUS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 82344137076304300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "148 rue loucheur",
+    "postCode": 76550,
+    "city": "Offranville",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 9361270895805090000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 Rue des Hortensias",
+    "postCode": 77164,
+    "city": "Ferrières-en-Brie",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 60331064452098000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2C rue DUGUAY TROUIN",
+    "postCode": 93330,
+    "city": "NEUILLY SUR MARNE",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 78304132487195700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 allée du glacis",
+    "postCode": 93160,
+    "city": "Noisy le Grand",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 50489364112915300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "30 RUE WALDECK ROCHET",
+    "postCode": 93300,
+    "city": "AUBERVILLIERS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 42299268300743000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 Place de la Pinède",
+    "postCode": 94470,
+    "city": "Boissy-Saint-Léger",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 40119449149902300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 rue Kléber",
+    "postCode": 91800,
+    "city": "Brunoy",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 12600744470822300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 rue Erard",
+    "postCode": 75012,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 92557352440625700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "16 RUE DE BRETAGNE",
+    "postCode": 92140,
+    "city": "CLAMART",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 13865546200857300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 RUE DE MONTESSON",
+    "postCode": 95870,
+    "city": "BEZONS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 87576750577726600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 rue condorcet",
+    "postCode": 75009,
+    "city": "PARIS",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 60308113329512700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 ALLée DES MONEGASQUES MASSY",
+    "postCode": 91300,
+    "city": "Tunis",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 93557743512479600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "77 RUE DU GENERAL LECLERC",
+    "postCode": 95600,
+    "city": "EAUBONNE",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 14403694126352300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "190 BOULEVARD JOFFRE",
+    "postCode": 95240,
+    "city": "CORMEILLES EN PARISIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 65269933962005100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 Rue du Marnois",
+    "postCode": 93160,
+    "city": "Noisy-le-Grand",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 76377383438989500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 RUE VOLTAIRE",
+    "postCode": 92160,
+    "city": "ANTONY",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 93520346698727100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "166 Rue Jean Jaures",
+    "postCode": 78520,
+    "city": "FOLLAINVILLE-DENNEMONT",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 53248374074036400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "35 avenue de la Mutualité",
+    "postCode": 91440,
+    "city": "Bures-sur-Yvette",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 6828733263334420000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "39 QUAI DU GENIE",
+    "postCode": 95220,
+    "city": "HERBLAY SUR SEINE",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 71695518148438600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "152 Rue Saint Maur",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 33756268425348600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 chemin du moque bouteille",
+    "postCode": 94490,
+    "city": "Ormesson-sur-Marne",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 34601298778974000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 Mail de Savoie",
+    "postCode": 94320,
+    "city": "THIAIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 78169825214975800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "84 Avenue Médéric",
+    "postCode": 93160,
+    "city": "Noisy le grand",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 20339210651904200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "68 rue du parc",
+    "postCode": 91180,
+    "city": "Saint Germain les Arpajon",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 56764762506615900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue Edmond Roger",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 95990043196242300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 rue du père wresinski",
+    "postCode": 95370,
+    "city": "Montigny-Les - Cormeilles",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 38192995859024100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 RUE JEAN DES BARRES",
+    "postCode": 77178,
+    "city": "OISSERY",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 64289128895040600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "37 allée Carnot",
+    "postCode": 93190,
+    "city": "LIVRY GARGAN",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 35549987959533800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "64 Avenue des Princes",
+    "postCode": 93460,
+    "city": "Gournay sur Marne",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 41239707429071100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 résidence de la Renardière",
+    "postCode": 95290,
+    "city": "L'isle-Adam",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 40604879472012200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 Place des Cerisiers",
+    "postCode": 95160,
+    "city": "Montmorency",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 57300716423458400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75010,
+    "city": "PARIS",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 83326884388685700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Martissot",
+    "postCode": 92110,
+    "city": "CLICHY",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 25868416732567600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue des pommiers",
+    "postCode": 77120,
+    "city": "Giremoutiers",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 46394643399524400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "32 rue de la Chine",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 49762984989789300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 Villa du noyer Godard",
+    "postCode": 78510,
+    "city": "Triel-sur-Seine",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 83270912579561100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue Le Corbusier",
+    "postCode": 78280,
+    "city": "Guyancourt",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 58629579250433400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "56, rue de al fontaine au roi",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 91027963500235200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "41 rue du Château d'Eau",
+    "postCode": 75010,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 51247843077209700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "200 Rue DE LA CROIX NIVET",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 99535731676939900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "18 Rue Guillaume Bertrand",
+    "postCode": 75011,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 11798372902801100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 RUE DU MONT CENIS",
+    "postCode": 75018,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 41314649104793600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 RUE PAUL DAUTIER",
+    "postCode": 78140,
+    "city": "VELIZY VILLACOUBLAY",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 43221412926402300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "253 Avenue Jean Jaurès",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 5008237194551410000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "64 rue dainville",
+    "postCode": 77580,
+    "city": "Coutevroult",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 29199790803453300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 RUE DES 2 COMMUNES",
+    "postCode": 94300,
+    "city": "VINCENNES",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 86686976081785700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 92100,
+    "city": "BOULOGNE-BILLANCOURT",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 55537000375365800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "85 Rue Saint-Maur",
+    "postCode": 75011,
+    "city": "Paris",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 10334251559226100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue de la croix Mi Voie",
+    "postCode": 78440,
+    "city": "Issou",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 20360463202426600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 rue Marcel Dessonnes",
+    "postCode": 77830,
+    "city": "Valence en Brie",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 57172548683860000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 boulevard Stanislas Girardin",
+    "postCode": 76140,
+    "city": "Le Petit-Quevilly",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 27064032727024100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 95000,
+    "city": "CERGY",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 46312013361763600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "72 rond point du pont de sèvres, Résidence le trident",
+    "postCode": 92100,
+    "city": "BOULOGNE-BILLANCOURT",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 63169849840937600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 ter chemin de villiers",
+    "postCode": 77310,
+    "city": "saint fargeau",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 58700811154502400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 Avenue Anatole",
+    "postCode": 94600,
+    "city": "CHOISY LE ROI",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 99974132985637300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 Rue Sainte Foy",
+    "postCode": 75002,
+    "city": "PARIS",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 54335236427331300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 RUE LUDWIG VAN BEETHOVEN",
+    "postCode": 94400,
+    "city": "Vitry sur Seine",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 11321647301980100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "48 rue de balard",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 28926910207294700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "180 Rue de la porte Jaune",
+    "postCode": 92210,
+    "city": "Saint Cloud",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 22267896034844800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "136 Rue De Choisy",
+    "postCode": 94400,
+    "city": "VITRY SUR SEINE",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 24963794416106300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "84 rue Francoeur",
+    "postCode": 91170,
+    "city": "Vitry-Chatillon",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 71721812862178100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "48 Rue Balard",
+    "postCode": 75015,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 76075848584146400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 place Albert Thomas",
+    "postCode": 93140,
+    "city": "Bondy",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 45042541047981800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 ALLEE DES BOULARDS",
+    "postCode": 78430,
+    "city": "LOUVECIENNES",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 77485567419352200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "41 rue du Bois des Antonins",
+    "postCode": 91800,
+    "city": "Boussy-Saint-Antoine",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 94157964796974000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "84 Boulevard Camélinat",
+    "postCode": 92240,
+    "city": "Malakoff",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 66537534518811500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "108 Rue du caporal Félix Poussineau",
+    "postCode": 77190,
+    "city": "Dammarie-les-Lys",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 92219878865827300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue Eugène Delacroix",
+    "postCode": 92230,
+    "city": "Gennevilliers",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 57313264127603400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 Rue de Prague",
+    "postCode": 77144,
+    "city": "Montévrain",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 14466751228864000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "55 bis rue d'Estienne d'orves",
+    "postCode": 93110,
+    "city": "Rosny sous bois",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 37892945119967000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 rue Jules Verne",
+    "postCode": 92300,
+    "city": "LEVALLOIS PERRET",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 50206997414411000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "41b avenue de Melun",
+    "postCode": 77100,
+    "city": "Nanteuil les Meaux",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 15432129582072700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "36 Rue de l'Ourcq",
+    "postCode": 75019,
+    "city": "Paris",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 30087476642354200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 AVENUE DU DOCTEUR GLEY",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 46091410663164600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 ALLEE DUPERREY",
+    "postCode": 93330,
+    "city": "NEUILLY SUR MARNE",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 73991840322913700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "242 rue de la Croix-Nivert",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 49501515703051600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue du Général Julien",
+    "postCode": 93800,
+    "city": "Epinay sur seine",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 48363297163273100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "558 rue de la gare",
+    "postCode": 77190,
+    "city": "Dammarie les lys",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 74981965678326500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75001,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 1302579819744360000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "36 rue du château",
+    "postCode": 77100,
+    "city": "Nanteuil-les-Meaux",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 23673301559454200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 RUE MISSAK MANOUCHIAN",
+    "postCode": 93110,
+    "city": "ROSNY SOUS BOIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 59660516092072900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "39 boulevard du Général de Gaulle",
+    "postCode": 95200,
+    "city": "Sarcelles",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 72670945898241400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "815 avenue du Général Leclerc",
+    "postCode": 92100,
+    "city": "Boulogne-Billancourt",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 89199609650635400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "142 AVENUE DE SAINT OUEN",
+    "postCode": 75018,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 59532173927160200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 rue vidal de la Blache",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 35406514287719600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue des marnerons",
+    "postCode": 95240,
+    "city": "cormeilles en parisis",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 14887136368725400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 RUE PARMENTIER",
+    "postCode": 78800,
+    "city": "HOUILLES",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 56859647752552500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 Avenue des Haras",
+    "postCode": 78170,
+    "city": "La Celle Saint-Cloud",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 63560636237795500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "35 Rue Jean Bleuzen",
+    "postCode": 92170,
+    "city": "VANVES",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 21138085375618200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 allée Jean Perrin",
+    "postCode": 77420,
+    "city": "Champs sur Marne",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 12869118002915600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 Bd DU MARECHAL JOFFRE",
+    "postCode": 92340,
+    "city": "BOURG LA REINE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 99848830044143200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "95 bis boulevard jean jaurès",
+    "postCode": 94260,
+    "city": "Fresnes",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 83228800888158100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "66 Rue Marguerite de Rochechouart",
+    "postCode": 75009,
+    "city": "Paris",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 2233644027225780000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 SQUARE DES ACACIAS",
+    "postCode": 93800,
+    "city": "EPINAY SUR SEINE",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 39089551602430100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "22 Allée de Roissy",
+    "postCode": 93190,
+    "city": "LIVRY GARGAN",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 46845993735728700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 Rue henri Martin",
+    "postCode": 92240,
+    "city": "Malakoff",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 63383231724519300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "11 rue Emile Lepeu",
+    "postCode": 75011,
+    "city": "Paris",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 30907519463564900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 rue Saint Nicolas",
+    "postCode": 95500,
+    "city": "Gonesse",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 13194324187713200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 cour Camille Pissaro",
+    "postCode": 77600,
+    "city": "Bussy Saint Georges",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 25629786008483500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 RUE DE LA TOUR D'AUVERGNE",
+    "postCode": 75009,
+    "city": "PARIS",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 81264456415581900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 Place Carnot",
+    "postCode": 93110,
+    "city": "Rosny- Sous-Bois",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 61344668885061600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "88 RUE DE PICPUS",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 66596086507362900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue du Bel Air",
+    "postCode": 93360,
+    "city": "Neuilly Plaisance",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 36547770958772100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 route de nozay",
+    "postCode": 91620,
+    "city": "la ville du bois",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 51564043729480400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "55 Rue Lequesne",
+    "postCode": 94130,
+    "city": "NOGENT -SUR -MARNE",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 75395830907153500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "881 cours Aquitaine",
+    "postCode": 92100,
+    "city": "Boulogne Billancourt",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 78267606198749600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 Rue Claude Tillier",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 55336132551481800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "50 rue Pasteur",
+    "postCode": 78640,
+    "city": "VILLIERS SAINT FREDERIC",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 74059087431716800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 ALLEE JULES NOEL",
+    "postCode": 95410,
+    "city": "GROSLAY",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 40735485905865100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "38 rue Squeville",
+    "postCode": 94120,
+    "city": "Fontenay sous bois",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 8134029301108020000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 rue Faie Félix",
+    "postCode": 94300,
+    "city": "Vincennes",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 29356531641634900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 BIS Rue Chappe",
+    "postCode": 93160,
+    "city": "Noisy-le-Grand",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 84169804896097500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue des églantiers",
+    "postCode": 77124,
+    "city": "Penchard",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 21786078427222100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "120 rue defrance",
+    "postCode": 94300,
+    "city": "Vincennes",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 27674577366447500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue de la fontaine sarrazin",
+    "postCode": 77124,
+    "city": "Meaux",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 40305769463919300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "51 rue auguste blanqui",
+    "postCode": 94600,
+    "city": "Choisy le roi",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 60271182171874300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 A RUE DE MEAUX",
+    "postCode": 77860,
+    "city": "QUNICY VOISINS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 41722754779755700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 bis avenue de la Marne",
+    "postCode": 92600,
+    "city": "Asnières sur Seine",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 43234577922010900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 ter rue victor hugo",
+    "postCode": 91210,
+    "city": "draveil",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 10613801884450900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue Corot",
+    "postCode": 77540,
+    "city": "Rozay-en-Brie",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 70961296712523100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue de la brèche aux loups",
+    "postCode": 77144,
+    "city": "Montévrain",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 65097896615833300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 allée du rû",
+    "postCode": 94260,
+    "city": "Fresnes",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 54284819918344300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "55 rue verte",
+    "postCode": 76000,
+    "city": "Rouen",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 35726194854480400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 rue Marcel Pagnol",
+    "postCode": 77173,
+    "city": "Chevry-Cossigny",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 17563742917426900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 Chemin des Pepins",
+    "postCode": 77400,
+    "city": "Saint Thibault Des Vignes",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 76506621233689200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 rue de la Brasserie Gruber",
+    "postCode": 77000,
+    "city": "Melun",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 71713936346996200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "52, avenue Cressac",
+    "postCode": 78990,
+    "city": "Elancourt",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 36301347147575200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "39F Quai de Dion Bouton",
+    "postCode": 92800,
+    "city": "Puteaux",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 25357936977992600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 RUE DE BERCY",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 74495588185313900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 RUE DU CHAMP TORTU",
+    "postCode": 77184,
+    "city": "EMERAINVILLE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 31533559739646800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 rue Tiquetonne",
+    "postCode": 75002,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 49899945203878900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 chemin du canal",
+    "postCode": 77420,
+    "city": "Champs sur marne",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 37814893305439100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "94 Rue du Général de Gaulle",
+    "postCode": 77000,
+    "city": "Melun",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 96028964687486400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 allée de la hallebarde",
+    "postCode": 95450,
+    "city": "Le Perchay",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 49360502843154900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 RUE DU BOIS JOLY",
+    "postCode": 92000,
+    "city": "NANTERRE",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 86648131221395800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue Ginoux",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 90782620115967000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "49 rue Jules Vanzuppe",
+    "postCode": 94200,
+    "city": "Ivry-sur-seine",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 13630128329564000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "47 Avenue de la Liberté",
+    "postCode": 94260,
+    "city": "FRESNES",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 87363523897410500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "134 cours aquitaine",
+    "postCode": 92100,
+    "city": "Boulogne Billancourt",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 24546034546449900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "14 QUAI DE LA REPUBLIQUE",
+    "postCode": 60200,
+    "city": "COMPIEGNE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 70635871929395800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 rue Jules Princet",
+    "postCode": 93600,
+    "city": "Aulnay-sous-bois",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 55886151938484100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue Henri Ribière",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 2335069165853890000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 rue Maurice Audin",
+    "postCode": 93150,
+    "city": "Le Blanc-Mesnil",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 25243880168204900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 rue des Rossignols",
+    "postCode": 95620,
+    "city": "parmain",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 69491819732366300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 67244291902352600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Etienne Dolet",
+    "postCode": 93230,
+    "city": "Romainville",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 54761441388731800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 allée Théodore Monod",
+    "postCode": 77600,
+    "city": "Bussy Saint Georges",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 391780277037629000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8, allée des Lilas",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 34864028237868900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 avenue Pierre et Marie Curie",
+    "postCode": 93700,
+    "city": "DRANCY",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 83095100011495400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "35 avenue André lecoq",
+    "postCode": 78520,
+    "city": "Limay",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 45833023953387300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "29 RUE BOISSONADE",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 774198582026494000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "36 rue aristide briand",
+    "postCode": 94430,
+    "city": "Chennevières-sur-Marne",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 49140067991614400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 RUE DES QUATRE VENTS",
+    "postCode": 28200,
+    "city": "JALLANS",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 4847161888675210000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 boulevard chastenet de gery",
+    "postCode": 94800,
+    "city": "VILLEJUIF",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 60167829651768000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "chez mme Katarzina Spalik",
+    "postCode": 94110,
+    "city": "Arcueil",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 60409607020698600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 Résidence Les Marelles",
+    "postCode": 91800,
+    "city": "BOUSSY ST ANTOINE",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 57342011137922000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "26 rue Antoine Fratacci",
+    "postCode": 92170,
+    "city": "Vanves",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 92630633340738000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue Ernest RENAN",
+    "postCode": 75015,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 38945876456051700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "18 Rue Saint Sulpice",
+    "postCode": 75006,
+    "city": "Paris",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 94644100987118800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 TER RUE DU BOIS",
+    "postCode": 92600,
+    "city": "ASNIERES SUR SEINE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 26197384899995100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Hérault",
+    "postCode": 92190,
+    "city": "Meudon",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 64131760768564600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "129 boulevard Massena",
+    "postCode": 75013,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 67656706382824900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 allée des Primevères",
+    "postCode": 94440,
+    "city": "Villecresnes",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 22813402451890200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "26 Passage de la Vierge",
+    "postCode": 75007,
+    "city": "Paris",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 64571562353924000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 avenue des frères lumières",
+    "postCode": 95240,
+    "city": "CORMEILLE EN PARISIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 69194138440778400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "43 Allée Arthur Rimbaud",
+    "postCode": 95350,
+    "city": "Saint-Brice-Sous forêt",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 67490983639330100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 SQUARE DES PALETUVIERS",
+    "postCode": 77240,
+    "city": "CESSON",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 57292078428620400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6D route du Breuil",
+    "postCode": 78550,
+    "city": "Bazainville",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 6012122135798430000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "64 rue Victor Hugo",
+    "postCode": 92300,
+    "city": "Levallois-Perret",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 3991122888667150000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "Route de la Ferté",
+    "postCode": 45150,
+    "city": "Jargeau",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 91305797884969500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "95 AVENUE DE LA MARNE",
+    "postCode": 92600,
+    "city": "ASNIERES SUR SEINE",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 65232101409431800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue du Maréchal de lattre de Tassigny",
+    "postCode": 92110,
+    "city": "Clichy la Garenne",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 38651113334336500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 ALLEE DES BOUVREUILS",
+    "postCode": 78710,
+    "city": "ROSNY SUR SEINE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 5570380434303640000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "470 Rue Léon Blum",
+    "postCode": 34000,
+    "city": "Montpellier",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 93498833027234800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 8984797314787400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 ALLEE VERTE",
+    "postCode": 77410,
+    "city": "PRECY SUR MARNE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 22493058707898500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "43 bis rue des Desnouettes",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 76463230756256300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "28 avenue de Paris",
+    "postCode": 77164,
+    "city": "Ferrières en Brie",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 28769820926462700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "69 RUE DE CHABROL",
+    "postCode": 75010,
+    "city": "PARIS",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 9660068104837770000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 61818154382126700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue Paul Gauguin",
+    "postCode": 91130,
+    "city": "Ris Orangis",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 54202763838931500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 rue de la Pépinière",
+    "postCode": 57970,
+    "city": "Yutz",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 19390098548928500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 boulevard Paul-Emile Victor",
+    "postCode": 92200,
+    "city": "Neuilly Sur Seine",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 97083995381513400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 MAIL PAULINE LEFEVRE",
+    "postCode": 91260,
+    "city": "JUVISY-SUR-ORGE",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 53714345594475800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 allée de l'escapade",
+    "postCode": 95220,
+    "city": "herblay",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 96377480511804800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue Roger Salengro",
+    "postCode": 93430,
+    "city": "Villetaneuse",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 6328327157243710000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 allée edgar brandt",
+    "postCode": 92320,
+    "city": "Chatillon",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 5448745026156300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "151 rue de chateaudun",
+    "postCode": 45190,
+    "city": "beaugency",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 51751074153029400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 rue de provence",
+    "postCode": 94800,
+    "city": "Villejuif",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 75889108419907100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 38322392901378500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 rue du jeu de boulettes",
+    "postCode": 27830,
+    "city": "neaufle st martin",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 7621532604675570000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1145 RUE DES SEIGNEURS DU TÔT",
+    "postCode": 76890,
+    "city": "VARNEVILLE-BRETTEVILLE",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 20778433541315200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 avenue des acacias",
+    "postCode": 92500,
+    "city": "Rueil Malmaison",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 68757927963884400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue la feuillade",
+    "postCode": 75001,
+    "city": "Paris",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 21443085703041600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue la Feuillade",
+    "postCode": 75001,
+    "city": "Paris",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 42323301635904000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 avenue Roger salangro",
+    "postCode": 94500,
+    "city": "Champigny-sur-Marne",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 13691562945825900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "59 RUE DU COMMANDANT BERGE",
+    "postCode": 77100,
+    "city": "MEAUX",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 55113270829969800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "778 rue du parc le notre",
+    "postCode": 95310,
+    "city": "Saint Ouen L'Aumône",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 29034111128049400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "85 RUE DE STRASBOURG",
+    "postCode": 92400,
+    "city": "COURBEVOIE",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 62022396781060100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "45 rue de Wattignies",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 45503447947259900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "177 boulevard Voltaire",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 83875572173115200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "47 RUE GUY MOQUET",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 48439212551617400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "147 rue du Président Wilson",
+    "postCode": 92300,
+    "city": "Levallois-Perret",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 53861665828989100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "35 Rue Rouget de l'Isle",
+    "postCode": 93160,
+    "city": "Noisy-le-Grand",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 26611300791816200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue des Marnaudes",
+    "postCode": 93200,
+    "city": "Saint-Denis",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 64828644736139700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 Place Saint Just",
+    "postCode": 95100,
+    "city": "Argenteuil",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 83813303628153200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 rue de l'Audience",
+    "postCode": 95120,
+    "city": "ERMONT",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 19012528689108100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 allée des Cytises",
+    "postCode": 77340,
+    "city": "Pontault Combault",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 84239673820578000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 90579932169719400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "52 rue camile desmoulins,",
+    "postCode": 94230,
+    "city": "cachan",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 35648488330052900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 HAMEAU DES ECHASSONS",
+    "postCode": 91310,
+    "city": "LONGPONT SUR ORGE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 85075512994217800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "18 bis rue des orchidées",
+    "postCode": 93220,
+    "city": "Gagny",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 9484002796974570000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "911 Rue d'Orroire",
+    "postCode": 92624,
+    "city": "Gennevilliers",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 38132588977832700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 rue Jean Baptiste Clement",
+    "postCode": 94800,
+    "city": "Villejuif",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 60996245838995300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 boulevard du marechal joffre",
+    "postCode": 92340,
+    "city": "bourg la reine",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 2769379759836340000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "46 RUE DU 18 JUIN",
+    "postCode": 93220,
+    "city": "GAGNY",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 354412479698959000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 AVENUE BLAISE PASCAL",
+    "postCode": 77420,
+    "city": "CHAMPS SUR PARNE",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 78805249472103300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 boulevard suchet",
+    "postCode": 75016,
+    "city": "Paris",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 58592030319882200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "26 bis avenue Eugène le Moign",
+    "postCode": 93150,
+    "city": "Le Blanc-Mesnil",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 73239379189063500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "29 rue de la comédie française",
+    "postCode": 95220,
+    "city": "HERBLAY",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 13887098111541100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "116 RUE DE PATAY",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 64313079214971800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 RUE DU CHATEAU",
+    "postCode": 92250,
+    "city": "LA GARENNE-COLOMBES",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 26167035309978600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "25 rue lucien piron",
+    "postCode": 93110,
+    "city": "Rosny sous bois",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 14728769443857500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 avenue Choisy Tour RIMINI Apt 2082",
+    "postCode": 75013,
+    "city": "Paris",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 15910383350324900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 avenue Mathurin Moreau",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 33633850749434100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue Clément Ader",
+    "postCode": 95160,
+    "city": "Montmorency",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 42135696774650400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 92270,
+    "city": "Bois-Colombes",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 48072269353347300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 SQUARE DE VENCE",
+    "postCode": 95380,
+    "city": "LOUVRES",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 49837529178577000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "144 CHEMIN DE LA COTE DU CHANGE",
+    "postCode": 93370,
+    "city": "Montfermeil",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 44088589549331300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue des chanceliers de maupeou",
+    "postCode": 95820,
+    "city": "bruyeres sur oise",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 83040155827157600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "20 Rue Claude Lorrain",
+    "postCode": 75016,
+    "city": "PARIS",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 65490840287640700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 bis avenue Le Mignon",
+    "postCode": 92270,
+    "city": "BOIS COLOMBES",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 88846513485497300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "288 rue Jean Jaures",
+    "postCode": 94700,
+    "city": "Maisons-Alfort",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 35993881875447300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "38 Rue Salvador Allende",
+    "postCode": 92000,
+    "city": "NANTERRE",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 80866403248123200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 AVENUE JEAN PERRIN",
+    "postCode": 92330,
+    "city": "SCEAUX",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 45481411855789800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "04 Rue du Couvent",
+    "postCode": 77200,
+    "city": "Torcy",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 26434876259146900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 93100,
+    "city": "Montreuil",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 27917897037562100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "53 rue Benoît Malon",
+    "postCode": 94250,
+    "city": "Gentilly",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 10974891839097400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "13 Rue Daniel Becker",
+    "postCode": 92000,
+    "city": "Nanterre",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 12589082538164300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 rue Raymond Morel",
+    "postCode": 95130,
+    "city": "FRANCONVILLE",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 94978453338767200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "36 rue Hector BERLIOZ",
+    "postCode": 93000,
+    "city": "Bobigny",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 21055326488270400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "46 RUE AUGUSTE MOUNIE",
+    "postCode": 92160,
+    "city": "ANTONY",
+    "id_class": 18865900000000000000
+  },
+  {
+    "id": 13327551630806700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 RUE AU METRE",
+    "postCode": 78290,
+    "city": "CROISSY SUR SEINE",
+    "id_class": 67418600000000000000
+  },
+  {
+    "id": 31401931092741400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 rue George Sand",
+    "postCode": 94210,
+    "city": "La Varenne St-Hilaire",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 91390576310496900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue Henri de Toulouse Lautrec",
+    "postCode": 95540,
+    "city": "Mery-sur-Oise",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 19685218001371400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "44 rue Saint-Exupéry",
+    "postCode": 94550,
+    "city": "Chevilly-Larue",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 16069107185632100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue de l'Eglise",
+    "postCode": 95460,
+    "city": "Ezanville",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 9684262198142140000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75009,
+    "city": "PARIS",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 21248576951754400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "80 avenue de Royaumont",
+    "postCode": 95270,
+    "city": "Viarmes",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 72901890939065300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 Rue des Louviers",
+    "postCode": 78100,
+    "city": "St Germain en Laye",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 93149076640745100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "30 avenue pasteur",
+    "postCode": 92170,
+    "city": "VANVES",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 82666357034802100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "23 rue Jean Jaures",
+    "postCode": 94190,
+    "city": "Villeneuve saint georges",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 42322300673237200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "05 RUE RIGAUD",
+    "postCode": 93350,
+    "city": "LE BOURGET",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 32572855865621200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "104 bis rue de l'Abbé Groult",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 177788624721783000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "25 rue Felix Chobert",
+    "postCode": 95500,
+    "city": "Gonesse",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 68264230577539100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "Chez M. MAJERI Achraf",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 34968535572997500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 rue Germaine Sibien",
+    "postCode": 60280,
+    "city": "Clairoix",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 74460755176160400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 Rue des Cottages",
+    "postCode": 77800,
+    "city": "Chelles",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 22853527904929200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 Rue Gambetta",
+    "postCode": 92600,
+    "city": "Asnières sur seine",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 9916983723625110000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "18 allée des Orgues de Flandre",
+    "postCode": 75019,
+    "city": "Paris",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 43200833039319900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue du Cordelier",
+    "postCode": 77340,
+    "city": "Pontault-Combault",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 7754850364822010000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 avenue Affre",
+    "postCode": 91800,
+    "city": "BRUNOY",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 5246124432189820000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue Jean baptiste Salis",
+    "postCode": 91590,
+    "city": "La Ferté-Alais",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 54267607050330700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 rue Emmanuel Vinson",
+    "postCode": 93700,
+    "city": "Drancy",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 64186862708706400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 ALLEE DES PEINTRES",
+    "postCode": 95370,
+    "city": "MONTIGNY LES CORMEILLES",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 45641390148671700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "247 Boulevard Jean Jaures",
+    "postCode": 92100,
+    "city": "BOULOGNE-BILLANCOURT",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 21217690700699700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 RUE DE LA CRECHE",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 60175168467847700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "62 boulevard de l'hôpital",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 82186909372879000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "15 RUE LAHIRE",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 70525228687068400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "13 BIS RUE PASTEUR",
+    "postCode": 77400,
+    "city": "THORIGNY SUR MARNE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 26381202996983700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 RUE DU BOIS",
+    "postCode": 94170,
+    "city": "LE PERREUX SUR MARNE",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 64230963505297100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 SQUARE BERNARD PALISSY",
+    "postCode": 78330,
+    "city": "FONTENAY LE FLEURY",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 15038475346552200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "23 rue Gilbert Levy",
+    "postCode": 77130,
+    "city": "Montereau Fault Yonne",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 34262645013868000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 RUE DU STADE",
+    "postCode": 78300,
+    "city": "POISSY",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 69836008706000800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 RUE DE BELFORT",
+    "postCode": 92600,
+    "city": "ASNIERES SUR SEINE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 91430353873175800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "28 CLOS DES PERROQUETS",
+    "postCode": 94500,
+    "city": "CHAMPIGNY SUR MARNE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 39929226130612800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "28 rue du Général de Gaulle",
+    "postCode": 94430,
+    "city": "Chennevières-sur-marne",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 53816164340701200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 bis avenue beauregard",
+    "postCode": 94350,
+    "city": "Villiers sur Marne",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 6390476640423390000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "27 Rue Pierre Semard",
+    "postCode": 93130,
+    "city": "Noisy le Sec",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 47924313828345200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "15 rue Lakanal",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 61201309423566500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 grand place",
+    "postCode": 92350,
+    "city": "Plessi Robinson",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 9737038482335920000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "13 Rue Liquet",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 32627191533663300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue des nénuphars",
+    "postCode": 91640,
+    "city": "Briis-sous-Forges",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 38193585274173500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75009,
+    "city": "PARIS",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 3188544364948580000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 Rue de la fontaine au Roi",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 98762263381785200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "82b rue de la République",
+    "postCode": 94360,
+    "city": "Bry-Sur-Marne",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 52660774093135000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 Rue de la Pierre levée",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 669155058696758000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "120 RUE PIERRE BROSSOLETTE",
+    "postCode": 93160,
+    "city": "NOISY LE GRAND",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 49156062220344200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "20 rue Ernest Cresson",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 84042150380434400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "38 RUE CLEMENT PERROT",
+    "postCode": 94400,
+    "city": "VITRY SUR SEINE",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 6672671808738050000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 rue de l'Angelus",
+    "postCode": 95280,
+    "city": "JOUY LE MOUTIER",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 8537713407260360000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 Rue André Soladier",
+    "postCode": 94140,
+    "city": "ALFORTVILLE",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 3337901493688440000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 rue Marc Seguin",
+    "postCode": 75018,
+    "city": "Paris",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 63125389314121600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "55 rue Marc Sangnier",
+    "postCode": 92290,
+    "city": "Chatenay Malabry",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 13109334848366400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 rue du général leclerc",
+    "postCode": 78420,
+    "city": "Carrières sur seine",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 72409143620889900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 avenue Francis de Pressensé, Batiment 3 appt 331 chez Mahaguim J.L",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 29711075627910400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "3 RUE FRANZ SCHUBERT, APP 649",
+    "postCode": 78100,
+    "city": "SAINT GEERMAIN EN LAYE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 66411209950278800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "34 Boulevard de Sébastopol",
+    "postCode": 75004,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 52346474211605000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "99 rue du mal de lattre tassigny",
+    "postCode": 94700,
+    "city": "maisons alfort",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 79054152356790500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "13 rue Frédéric Joliot Curie",
+    "postCode": 91700,
+    "city": "Sainte Geneviève des Bois",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 65379380850386800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "48 RUE HOCHE",
+    "postCode": 93170,
+    "city": "BAGNOLET",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 25632165228341800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "17 rue des petite écuries",
+    "postCode": 75010,
+    "city": "Paris",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 47430453461943000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "120 av du marechal de lattre de Tassigny",
+    "postCode": 94000,
+    "city": "CRETEIL",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 35760767724346300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "64 rue de Longchamp",
+    "postCode": 92200,
+    "city": "Neuilly sur Seine",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 22721869029976700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "62 bis avenue des minimes",
+    "postCode": 94160,
+    "city": "st mandé",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 66136382566033100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 bis avenue Aristide Briand",
+    "postCode": 92220,
+    "city": "Bagneux",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 25429716618393400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 RUE DU COTEAU",
+    "postCode": 94230,
+    "city": "CACHAN",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 78344405125172600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "25 rue Edgar Quinet",
+    "postCode": 93120,
+    "city": "LA COURNEUVE",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 91950042595132200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "46 rue du cercle des poètes",
+    "postCode": 77144,
+    "city": "Montévrain",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 42779591246555100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 résidence du Grand Val",
+    "postCode": 91600,
+    "city": "Savigny Sur Orge",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 49398191544539400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 allée de Margency",
+    "postCode": 95230,
+    "city": "Soisy-sous-Montmorency",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 79553097421733600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 rue du Verger",
+    "postCode": 94310,
+    "city": "Orly",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 57539917673379400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 RUE DU PETIT ROMBOIS",
+    "postCode": 58000,
+    "city": "SERMOISE SUR LOIRE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 75638722665587200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "205 Boulevard Vincent Auriol",
+    "postCode": 75013,
+    "city": "PARIS 13 / PARIS",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 86716606107186100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "145 rue de la source",
+    "postCode": 92000,
+    "city": "NANTERRE",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 45322674885757900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 Rue Georges GUXNEMER",
+    "postCode": 92600,
+    "city": "Asnières-Sur-Seine",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 24098188128460100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "39 rue Dupont des Loges",
+    "postCode": 35000,
+    "city": "Rennes",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 69117286548463800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "44 rue Jean Zay",
+    "postCode": 91300,
+    "city": "Massy",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 4961481751105820000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "41 RUE CURIE",
+    "postCode": 91800,
+    "city": "BRUNOY",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 91477397441745200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 Mail de la Resistance",
+    "postCode": 94380,
+    "city": "Bonneuil sur Marne",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 20003947249884800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 avenue ingrid bergman",
+    "postCode": 78390,
+    "city": "Bois d'Arcy",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 32145524695523800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "29 rue du docteur Finlay",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 55976235654392700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "19 Villa du Petit Parc",
+    "postCode": 94000,
+    "city": "Créteil",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 88898732029526900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 rue des fossés",
+    "postCode": 77370,
+    "city": "Rampillon",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 33615254130389200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "111 rue Villiers de L'Isle Adam",
+    "postCode": 75020,
+    "city": "Paris",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 71859497585013600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "124 rue de la Convention",
+    "postCode": 91700,
+    "city": "Saint Genevieve des Bois",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 20774220744944800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 rue de St Leu",
+    "postCode": 95370,
+    "city": "Montigny Les Cormeilles",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 16243254828057000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 square Jean Thébaud",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 43788979531934600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "20 RUE DU VIEUX MOULIN",
+    "postCode": "60 740",
+    "city": "SAINT MAXIMIN",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 42596971500719200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "11 bis rue Curnonsky",
+    "postCode": 75017,
+    "city": "Paris",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 37906112283280300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 BOULEVARD DU LYCEE",
+    "postCode": 92170,
+    "city": "VANVES",
+    "id_class": 67418600000000000000
+  },
+  {
+    "id": 92421829331501300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 avenue Ingrid Bergman",
+    "postCode": 78390,
+    "city": "Bois d'Arcy",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 67211445092181200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "22 rue de la paix",
+    "postCode": 95340,
+    "city": "Persan",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 20767534925300300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 avenue de Villepreux",
+    "postCode": 78340,
+    "city": "Les clayes sous bois",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 68274780576017400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue du Progrès",
+    "postCode": 93100,
+    "city": "Montreuil",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 31536580460766200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "44 RUE DE LA FONTAINE VARENNE",
+    "postCode": 93220,
+    "city": "GAGNY",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 46665507014142500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "56 avenue Rude",
+    "postCode": 78500,
+    "city": "Sartrouville",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 8425273495742870000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 RUE DU DOCTEUR BAUER",
+    "postCode": 93400,
+    "city": "SAINT OUEN",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 77946681997128300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 B allée des Tilleuls BAT C porte 203",
+    "postCode": 77400,
+    "city": "Lagny sur Marne",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 43045581087833500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 rue Morisset",
+    "postCode": 95170,
+    "city": "Deuil La Barre",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 37671881149128200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "13 RUE DES GRANDES NOUES",
+    "postCode": 77230,
+    "city": "MOUSSY LE NEUF",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 28648219632853900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 RUE HENRI BARBUSSE",
+    "postCode": 94450,
+    "city": "LIMEIL-BREVANNES",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 1335133475281220000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 RESIDENCE DU PRE FLEURI",
+    "postCode": 77230,
+    "city": "SAINT MARD",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 36840383036448200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 villa des hautes courantes",
+    "postCode": 94500,
+    "city": "Champigny sur Marnes",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 95614290798083200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 rue Gounod",
+    "postCode": 92210,
+    "city": "saint-cloud",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 74597369005643800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue de flandre",
+    "postCode": 92140,
+    "city": "Clamart",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 70557307416532700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "25 RUE DE L'ARGONNE",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 52749687596378200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 place de beaume, La Commanderie",
+    "postCode": 78990,
+    "city": "Elancourt",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 54994489946584900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "102 rue Saint Maur",
+    "postCode": 75011,
+    "city": "Paris",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 25509617509685500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "35 RUE DUPARCHY",
+    "postCode": 91170,
+    "city": "VITRY CHATILLON",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 13228564410459100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "59 avenue de l'épargne",
+    "postCode": 91390,
+    "city": "Morsang sur Orge",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 26469530517867100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "48 avenue Roger Salengro",
+    "postCode": 93120,
+    "city": "La Courneuve",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 24010642932231200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "26 avenue René Morin",
+    "postCode": 91420,
+    "city": "Morangis",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 67788524978618900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "34 Rue d'Actois",
+    "postCode": 75008,
+    "city": "Paris",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 84210125141510000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": 3,
+    "postCode": 78410,
+    "city": "Aubergenville",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 10593697572315500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "214 rue du faubourg Saint-Martin",
+    "postCode": 75010,
+    "city": "PARIS",
+    "id_class": 18865900000000000000
+  },
+  {
+    "id": 56692997453572200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "184 rue du Maréchal Leclerc",
+    "postCode": 94410,
+    "city": "Saint-Maurice",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 27093942649383700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "22 rue des Coutures",
+    "postCode": 77400,
+    "city": "Saint Thibault Des Vignes",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 20484533155222600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 avenue Gambetta",
+    "postCode": 94700,
+    "city": "Maisons-Alfort",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 57322333232115500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "37 LES NOUVEAUX HORIZONS",
+    "postCode": 78990,
+    "city": "ELANCOURT",
+    "id_class": 18865900000000000000
+  },
+  {
+    "id": 35467946438960600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "144 av Parmentier",
+    "postCode": 75011,
+    "city": "Paris",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 95424230615875300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 Avenue des marronniers",
+    "postCode": 94100,
+    "city": "Saint Maur des fossés",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 90535864762014000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue Marcel Allégot",
+    "postCode": 92190,
+    "city": "Meudon",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 86233209162556200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "14 RUE DES BATELIERS",
+    "postCode": 93400,
+    "city": "ST OUEN",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 63855994310861400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "___________108 Rue Michel Ange_____________________",
+    "postCode": 75016,
+    "city": "PARIS",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 22540339238841400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "78 rue René Hamon",
+    "postCode": 94800,
+    "city": "Villejuif",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 61365870754515800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "29b rue Jeanne d'Arc",
+    "postCode": 77400,
+    "city": "Lagny sur Marne",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 2062275592475400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "110 RUE VERDUN",
+    "postCode": 92800,
+    "city": "PUTEAUX",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 5894290591845710000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 Rue de la gare",
+    "postCode": 77170,
+    "city": "Coubert",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 87260192491741100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 sente de la ferme",
+    "postCode": 95830,
+    "city": "Cormeilles en Vexin",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 62134622433663100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 avenue Georges Lafenestre, Hall 13",
+    "postCode": 75014,
+    "city": "Paris",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 19961294282921600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 rue des violettes",
+    "postCode": 95000,
+    "city": "Cergy",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 44712580812304500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Jacques Duclos",
+    "postCode": 78280,
+    "city": "Guyancourt",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 3086532433162270000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 RUE LUCIEN Sampaix",
+    "postCode": 95870,
+    "city": "Bezons",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 85613209119759900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue des rosiers",
+    "postCode": 92340,
+    "city": "bourg la reine",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 12692826205975900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 BIS RUE JEAN MOUIN",
+    "postCode": 94300,
+    "city": "VINCENNES",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 81959019400883200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "67 RUE DE MAUMOURY",
+    "postCode": 95310,
+    "city": "SAINT-OUEN L'AUMÔNE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 26089541536674100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 rue des courlis",
+    "postCode": 78500,
+    "city": "Sartrouville",
+    "id_class": 67800900000000000000
+  },
+  {
+    "id": 48857582163565100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "43 Bis rue de Villiers",
+    "postCode": 92200,
+    "city": "Neuilly sur Seine",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 43552028307568200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2D Rue de Paris",
+    "postCode": 60800,
+    "city": "Lévignen",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 97785855689076300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "42 rue des cottages",
+    "postCode": 77700,
+    "city": "MAGNY LE HONGRE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 51192275905174400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 Boulevard Victor Schoelcher",
+    "postCode": 77600,
+    "city": "Bussy-Saint-Georges",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 52472340215444300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "79 avenue des martyrs de chateaubriant",
+    "postCode": 93700,
+    "city": "Drancy",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 65938892016331800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "43 RUE JEAN GABIN",
+    "postCode": 78390,
+    "city": "BOIS D'ARCY",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 10522485673327300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 Rue Jules Verne",
+    "postCode": 95240,
+    "city": "Cormeilles- En- Parisis",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 36148369765717400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 allée des Sycomores",
+    "postCode": 94400,
+    "city": "VITRY-SUR-SEINE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 16193282821946600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 rue Ernest gervaise",
+    "postCode": 91800,
+    "city": "Brunoy",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 80238420939307400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue Léon Moussinac chez Ennoyotie Irma",
+    "postCode": 94800,
+    "city": "VILLEJUIF",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 48432446538291500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 AVENUE DU NOUVEAU MONDE",
+    "postCode": 94000,
+    "city": "CRETEIL",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 70754138329549300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "58 Rue Gabriel Pèri",
+    "postCode": 78800,
+    "city": "Houilles",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 73480293059824500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "40 rue de valenton",
+    "postCode": 91330,
+    "city": "Yerres",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 96938730230797800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "7 avenue de la Libération",
+    "postCode": 77130,
+    "city": "Montereau-Fault-Yonne",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 39653308909934000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 rue du Bac",
+    "postCode": 77114,
+    "city": "Noyen-sur-Seine",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 21339653455276900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "22 RUE DESAIX",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 32446150426789800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 bis villa Berlioz",
+    "postCode": 94600,
+    "city": "Choisy-le-roi",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 79040090018254900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "30 rue Verte",
+    "postCode": 59650,
+    "city": "Villeneuve d'Ascq",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 90557766333957700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 rue des Bateliers",
+    "postCode": 92110,
+    "city": "Clichy",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 49249570918703400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "17 rue d'Alembert",
+    "postCode": 92600,
+    "city": "Asnières sur Seine",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 14127160463384100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 rue victore baltard",
+    "postCode": 78280,
+    "city": "GUYANCOURT",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 27633919241971200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "56 rue Carnot",
+    "postCode": 94700,
+    "city": "Maisons-Alfort",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 80832336471291600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 allée des marcassins",
+    "postCode": 95680,
+    "city": "MONTLIGNON",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 46783841651725300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 Promenades des pins",
+    "postCode": 92400,
+    "city": "Courbevoie",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 11424222277767900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "73 RUE VICTOR HUGO",
+    "postCode": 91400,
+    "city": "SACLAY",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 21571215476953600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 RUE DU PONT",
+    "postCode": 95170,
+    "city": "DEUIL LA BARRE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 10193790855918300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 Rue Jean JAURES",
+    "postCode": 92270,
+    "city": "Bois les colombes",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 38380757756224300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 RUE FELIX FAURE",
+    "postCode": 92600,
+    "city": "ASNIERES-SUR-SEINE",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 42831909246572000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "50 Rue Auguste Poullain",
+    "postCode": 93100,
+    "city": "MONTREUIL",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 83967716994260500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "134 rue d'Assas",
+    "postCode": 75006,
+    "city": "Paris",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 5837027170541830000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "135 avenue de Fontainebleau",
+    "postCode": 94270,
+    "city": "Le Kremlin-Bicêtre",
+    "id_class": 26050600000000000000
+  },
+  {
+    "id": 57605777950607800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "170 Rue du Faubourg Saint Denis BP 20",
+    "postCode": 75010,
+    "city": "Paris",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 75071401281007000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 avenue Kléber",
+    "postCode": 78190,
+    "city": "Trappes",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 91621072929555500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "169 AVENUE MAURICE THOREZ",
+    "postCode": 94200,
+    "city": "IVRY SUR SEINE",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 25208969453096300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 AVENUE DES SEVINES",
+    "postCode": 92230,
+    "city": "GENNEVILLIERS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 12660047602845400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue gustave eiffel",
+    "postCode": 92110,
+    "city": "clichy",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 1797545378304550000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "11 RUE DE LA CROIX FAUBIN",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 40390375190726200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "73 Avenue du Maréchal Maunoury",
+    "postCode": 28000,
+    "city": "Chartres",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 75530030034212600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "34 SQUARE DES SORBIERS",
+    "postCode": 77350,
+    "city": "LE MEE SUR SEINE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 79614945217340200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 boulevard Poissonnière",
+    "postCode": 75009,
+    "city": "Paris",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 40985218329400000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 bis Place de la Nation",
+    "postCode": 75012,
+    "city": "PARIS",
+    "id_class": 19363700000000000000
+  },
+  {
+    "id": 3942168947590850000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "49 Rue d'Avron",
+    "postCode": 93250,
+    "city": "Villemomble",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 39390106321942700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "51 RUE AMBROISE THOMAS",
+    "postCode": 95100,
+    "city": "ARGENTEUIL",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 47785755782872100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "25 Rue de l'Érable",
+    "postCode": 77700,
+    "city": "Serris",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 4023656885614220000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "73 Rue de la plaine",
+    "postCode": 75020,
+    "city": "Paris",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 32631499961154600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "77 rue Sevin Vincent",
+    "postCode": 92210,
+    "city": "Saint Cloud",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 93476095608680000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "13 rue du pré sous la ferme",
+    "postCode": 78960,
+    "city": "Voisins le bretonneux",
+    "id_class": 6696760000000000000
+  },
+  {
+    "id": 76152420799877700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "8 square de la colline verte",
+    "postCode": 94490,
+    "city": "Ormesson-Sur-Marne",
+    "id_class": 64057600000000000000
+  },
+  {
+    "id": 20997549236941500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 VILLA BRUNE",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 8683378981650870000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "69 avenue du docteur Arnold Netter",
+    "postCode": 75012,
+    "city": "Paris",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 21470888135169000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 Avenue de l'Association",
+    "postCode": 92700,
+    "city": "Colombes - (92700)",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 571676631526483000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 rue Sophie Germain",
+    "postCode": 9220,
+    "city": "BAGNEUX",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 61267500320373700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "8 avenue de choisy",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 49839620630293200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 90268636037693500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 Rue Frida Kahlo",
+    "postCode": 93400,
+    "city": "SAINT OUEN",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 40852122148839600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "237 avenue gabriel péri",
+    "postCode": 93370,
+    "city": "Montfermeil",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 26600183856426700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 avenue de la République",
+    "postCode": 91380,
+    "city": "Chilly Mazarin",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 93645633057046700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "Chatenay-Malabry",
+    "postCode": 92290,
+    "city": "Paris",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 96104331117737000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "171 avenue de Paris",
+    "postCode": 78820,
+    "city": "Juziers",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 5183705308990240000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 CHEMIN DES 40 SOUS",
+    "postCode": 78610,
+    "city": "LE PERRAY EN YVELINES",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 39916194744187100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 Rue Anatole France",
+    "postCode": 94270,
+    "city": "Le Kremlin bicêtre",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 65182099317050600,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 Allée Gaspard Monge",
+    "postCode": 93110,
+    "city": "Rosny-sous-bois",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 39954402309515400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4& av Charlie Chaplin",
+    "postCode": 91700,
+    "city": "Saint genevieve des Bois.",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 62472177896021200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 69627756714307000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "56 Rue Irène et Frédéric Joliot Curie",
+    "postCode": 93100,
+    "city": "Montreuil",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 22890107087763100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "13 ALLEE HENRI QUATRE",
+    "postCode": 93270,
+    "city": "SEVRAN",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 19965794596367700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 BOULEVARD DES CYGNES",
+    "postCode": 78200,
+    "city": "MANTES LA JOLIE",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 8874434663907180000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "48 rue des Hirondelles",
+    "postCode": 77340,
+    "city": "Pontault-Combault",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 99436923332480700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 rue Galvani",
+    "postCode": 91300,
+    "city": "Massy",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 92314848295346000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "21 Avenue du cottage",
+    "postCode": 95400,
+    "city": "Arnouville",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 32107669482685400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "90 Quai Jacques Bourgoin",
+    "postCode": 91100,
+    "city": "Corbeil-Essonnes",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 33662887300589200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 Rue de Verdun, Residence Crous",
+    "postCode": 60100,
+    "city": "Creil",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 32609820362205000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "31 Rue de l'Aven",
+    "postCode": 95800,
+    "city": "Cergy Saint-Christophe",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 50280704165543900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "109 Rue Général Leclerc",
+    "postCode": 95600,
+    "city": "Eaubonne",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 18846074522140000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 CITE LEISNIER",
+    "postCode": 92140,
+    "city": "Clamart",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 91179433858070300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "46 rue de Bordeaux",
+    "postCode": 95400,
+    "city": "Arnouville",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 53019704541724500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "19 RUE GRENETA",
+    "postCode": 75002,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 548211027336226000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "121 rue saint lazare",
+    "postCode": 75008,
+    "city": "PARIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 79029490385573600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 Boulevard rodin",
+    "postCode": 92130,
+    "city": "ISSY LES MOULINEAUX",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 8282202085251340000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "19 avenue de la croix du sud",
+    "postCode": 94550,
+    "city": "Chevilly Larue",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 86100779690287000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "3 rue Champ Pillard",
+    "postCode": 77400,
+    "city": "St Thibault des Vignes",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 58073653594267900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "67 RUE DU VIEUX PONT",
+    "postCode": 92000,
+    "city": "NANTERRE",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 51112529196903800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 rue Marion CAPRA",
+    "postCode": 94400,
+    "city": "Vitry sur seine",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 20863119037145000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "11 Avenue des Cèdres",
+    "postCode": 92410,
+    "city": "Ville d'Avray",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 41591000948199100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 rue Guichard",
+    "postCode": 93110,
+    "city": "Rosny-sous-Bois",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 60287030357608300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5D route de mary prolonge",
+    "postCode": 77440,
+    "city": "Isles les Meldeuses",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 94773865857706300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 Rue Trudon",
+    "postCode": 92160,
+    "city": "Antony",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 4750843428945640000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "44 BOULEVARD DES ECOLES",
+    "postCode": 77700,
+    "city": "BAILLY ROMAINVILLIERS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 94679624919898600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "3 rue du Bac",
+    "postCode": 77470,
+    "city": "Trilport",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 56703499564034900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "7 Allée Du Colonel Fabien",
+    "postCode": 93160,
+    "city": "Noisy Le Grand",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 65059292134802900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 allée duguay trouin",
+    "postCode": 93600,
+    "city": "Aulnay sous Bois",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 13007389055000600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 RUE DES VIOLETTES",
+    "postCode": 95190,
+    "city": "GOUSSAINVILLE",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 75583351555753500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "41 rue Lesne",
+    "postCode": 93200,
+    "city": "Saint Denis",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 67190815274484200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "55, place Paul Vigne d'Octon",
+    "postCode": 34070,
+    "city": "MONTPELLIER",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 19285160113722500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 allée BUFFON",
+    "postCode": 94700,
+    "city": "Maisons-Alfort",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 8982747679810130000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2B Rue de Nantes",
+    "postCode": 75019,
+    "city": "Paris",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 55665174159137000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "29 RUE DES CHAUFFERNES",
+    "postCode": 77400,
+    "city": "LAGNY SUR MARNE",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 53890351943831000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 RUE DES VOSGES",
+    "postCode": 94510,
+    "city": "LA QUEUE EN BRIE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 37235606549088700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 Rue Alain Colas",
+    "postCode": 78990,
+    "city": "Elancourt",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 25096695469138200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 Rue du Roulis",
+    "postCode": 77460,
+    "city": "Souppes-sur-Loing",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 84391813862486500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "75 Boulevard Mortier",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 61717871354391900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "53 avenue Magellan",
+    "postCode": 94000,
+    "city": "Créteil",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 54360811420542800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "110 RUE ROMAIN ROLLAND",
+    "postCode": 93260,
+    "city": "LE LILAS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 93654040099333500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "26 RUE DU REVERAND PIERRE AUBRY",
+    "postCode": 94120,
+    "city": "FONTENAY SOUS BOIS",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 14460176245728600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 75010,
+    "city": "PARIS",
+    "id_class": 57583600000000000000
+  },
+  {
+    "id": 29586815952267700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "48 avenue Philippe Auguste",
+    "postCode": 75011,
+    "city": "PARIS",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 34004821746982300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 rue Germaine Dir",
+    "postCode": 92110,
+    "city": "Clichy",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 57540582141702500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 allée Champagnole",
+    "postCode": 78310,
+    "city": "maurepas",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 20989942449038900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 rue Albert Larmé",
+    "postCode": 94290,
+    "city": "Villeneuve le roi",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 14181288437106400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "49 RUE JEAN BLEUZEN",
+    "postCode": 92170,
+    "city": "VANVES",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 60169928571916600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 Place du marché",
+    "postCode": 91290,
+    "city": "ARPAJON",
+    "id_class": 68987100000000000000
+  },
+  {
+    "id": 14726989998681700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "59 rue gutenberg 75015",
+    "postCode": 75015,
+    "city": "Paris",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 33818450240561300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6 rue Auguste Renoir",
+    "postCode": 78440,
+    "city": "Issou",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 82281999156661900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 rue de Bruges",
+    "postCode": 78990,
+    "city": "Elancourt",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 48357358111079700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "14 Mail De La Demi Lune",
+    "postCode": 94500,
+    "city": "Champigny Sur Marne",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 75971070765716600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "99 av du Marechal de Lattre de Tassigny",
+    "postCode": 77400,
+    "city": "Lagny sur Marnes",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 11735568621657300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "15 BIS RUE DU MARECHAL JOFFRE",
+    "postCode": 78110,
+    "city": "LE VESINET",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 55329253136626700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "76 rue d'Alleray",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 26516436374232500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "249 rue Saint-Martin",
+    "postCode": 75003,
+    "city": "Paris",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 16348947499208200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "RESIDENCE DES FEUCHERETS",
+    "postCode": 78570,
+    "city": "CHNATELOUP LES VIGNES",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 54940201330656700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "12 rue de la daguenette",
+    "postCode": 60270,
+    "city": "Gouvieux",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 52829663843306400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 Rue René VautieR",
+    "postCode": 93100,
+    "city": "MONTREUIL",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 45645438033945600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "136 BLD HENRY BARBUSSE",
+    "postCode": 93100,
+    "city": "MONTREUIL",
+    "id_class": 19363700000000000000
+  },
+  {
+    "id": 39153416461098700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "33 rue Rennequin",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 81830634048886100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "50 route de paris",
+    "postCode": 95150,
+    "city": "Saint Brice sous Forêt",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 13052896109629400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "121 boulevard Edouard Vaillant",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 71637281795541100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 RESIDENCE PIERRE MENDES FRANCE",
+    "postCode": 93190,
+    "city": "LIVRY GARGAN",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 16799326808175600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 RESIDENCE DU PRE AU BOIS",
+    "postCode": 92420,
+    "city": "VAUCRESSON",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 32085096412974700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 RUE EDOUARD NIEUPORT",
+    "postCode": 92150,
+    "city": "SURESNES",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 41880978549168200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue de la haie aux lièvres",
+    "postCode": 77820,
+    "city": "Le Chatelet en Brie",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 39597292284057900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "37 quai de l'argonne",
+    "postCode": 94170,
+    "city": "le perreux sur marne",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 26016791815199500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "rue de la Crois Ronde",
+    "postCode": 91360,
+    "city": "Epinay sur Orge",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 92264304968245300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 rue Boussingault",
+    "postCode": 75013,
+    "city": "Paris",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 30760380135488600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 rue Charles Lorin",
+    "postCode": 77140,
+    "city": "Nemours",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 7892845918713830000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue Fernandel",
+    "postCode": 77173,
+    "city": "Chevry Cossigny",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 2872887846153230000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "109 Rue du Général LECLERC",
+    "postCode": 95600,
+    "city": "Eaubonne",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 9582855992280450000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "95 rue Julien Lacroix",
+    "postCode": 75020,
+    "city": "PARIS",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 38226517995110800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "7 place des TULIPES",
+    "postCode": 78955,
+    "city": "Carrières sous poissy",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 81446247236446000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9b rue du Bac",
+    "postCode": 77440,
+    "city": "Isles les meldeuses",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 47755207524857800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "44 avenue François Mitterand",
+    "postCode": 77500,
+    "city": "Chelles",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 22865631933939900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 rue des poiriers",
+    "postCode": 78500,
+    "city": "SARTROUVILLE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 65209453873227000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "100 AVENUE EMILE COSSENEAU",
+    "postCode": 93160,
+    "city": "NOISY LE GRAND",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 47538515374107300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 CHEMIN DE L YVETTE",
+    "postCode": 78690,
+    "city": "LES ESSARTS LE ROI",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 67919377363966700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "107 rue de l'orangerie",
+    "postCode": 77144,
+    "city": "Montévrain",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 9553229100469140000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "192 grande rue des Mousseaux",
+    "postCode": 76860,
+    "city": "Ouville-La-Rivière",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 336433026273084000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 LES MARADAS MAUVES",
+    "postCode": 95300,
+    "city": "PONTOISE",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 26152863624445000000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "12 rue de l’Argonne",
+    "postCode": 78800,
+    "city": "HOUILLES",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 36811332261828500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "10 allée Elena Bonner",
+    "postCode": 77310,
+    "city": "Saint-Fargeau Ponthierry",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 99365121936274000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "175 rue Jules Regnier",
+    "postCode": 78370,
+    "city": "Plaisir",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 22100172099216900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "01 RUE DU GENIE",
+    "postCode": 94400,
+    "city": "Vitry Sur Seine",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 44635090377026900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "45 avenue Kellermann",
+    "postCode": 95230,
+    "city": "Soisy sous Montmorency",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 2961946874719170000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "11 Passage du Ruisseau de Menilmontant",
+    "postCode": 75020,
+    "city": "Paris",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 54694197244665500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 Avenue des Champs",
+    "postCode": 91130,
+    "city": "Ris-Orangis",
+    "id_class": 15321000000000000000
+  },
+  {
+    "id": 6231821024392780000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "1 rue Emile Peynoud",
+    "postCode": 77600,
+    "city": "Bussy saint Georges",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 74743215551623800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 rue de la charronnerie",
+    "postCode": 93200,
+    "city": "SAINT DENIS",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 7087384805353210000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "14 rue des garennes",
+    "postCode": 91340,
+    "city": "OLLAINVILLE",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 92156637681075000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 Place François Rabelais",
+    "postCode": 28000,
+    "city": "Chartres",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 69695949252914400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 avenue Victor Hugo",
+    "postCode": 94600,
+    "city": "CHOISY LE ROI",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 55694499107517700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue docteur Foucault",
+    "postCode": 92000,
+    "city": "Nanterre",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 45606471485913800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "29b avenue Maurice Métais",
+    "postCode": 93270,
+    "city": "Sevran",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 60539984894190200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "16 rue Madiraa",
+    "postCode": 92400,
+    "city": "Courbevoie",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 51909200998216600000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5 rue des grandes Murailles",
+    "postCode": 93300,
+    "city": "Aubervilliers",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 18515301336194300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "228 RUE DE COURCELLES",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 34365036236781400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "27 avenue Carnot",
+    "postCode": 95250,
+    "city": "Beauchamp",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 73615754115978100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "36 allée croix du sud",
+    "postCode": 93150,
+    "city": "Le Blanc Mesnil",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 48116565728752000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "67 place du docteur Felix Lobligeois",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 90406257990826300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "37 avenue Hector Berlioz",
+    "postCode": 93270,
+    "city": "SEVRAN",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 59339248045044600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 rue Gabriel Vinot",
+    "postCode": 91200,
+    "city": "Athis Mons",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 68073371659577900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 RUE DU LIEUTENANT COLONEL DAX",
+    "postCode": 75018,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 31718570000112000000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "10 voie nouvelle",
+    "postCode": 91700,
+    "city": "STE GENEVIEVE DES BOIS",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 49916291939826700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "6 quai de la révolution",
+    "postCode": 94140,
+    "city": "Alforville",
+    "id_class": 49273800000000000000
+  },
+  {
+    "id": 59234348823852700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 RUE DE LA MOSELLE",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 41825037398802200000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "23 Rue du Capitaine Guynemer",
+    "postCode": 92270,
+    "city": "Bois-Colombes",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 77325213199596300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "15 rue Édouard vaillant",
+    "postCode": 93140,
+    "city": "BONDY",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 73299305025850800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "9 RUE SAINT SENOCH",
+    "postCode": 75017,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 29141993378411700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "66 AVENUE THIERS",
+    "postCode": 93340,
+    "city": "LE RAINCY",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 90015166125438300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 PLACE JOSEPH FRANTZ",
+    "postCode": 92100,
+    "city": "BOULOGNE BILLANCOURT",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 34646924983621300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "19 rue des Peupliers",
+    "postCode": 94500,
+    "city": "Champigny Sur Marne",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 20132734881276100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "69 rue de la glacière",
+    "postCode": 75013,
+    "city": "PARIS",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 92454733525795400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "25 rue du Col de Dyane",
+    "postCode": 78180,
+    "city": "Montigny le Bretonneux",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 51123448003808500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "5km500 redoute morne surey",
+    "postCode": 97200,
+    "city": "Fort de France - martinique",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 28846634995583100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "139 rue de l'Ouest",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 62737980040156400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "14 RUE DE LA REMISE A GROUAN",
+    "postCode": 93420,
+    "city": "VILLEPINTE",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 23556994666094100000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "192 rue des bourguignons",
+    "postCode": 92600,
+    "city": "Asnières Sur Seine",
+    "id_class": 82734000000000000000
+  },
+  {
+    "id": 68140440386589700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "34 rue Jean Jacques Rousseau",
+    "postCode": 78130,
+    "city": "Les Mureaux",
+    "id_class": 51077800000000000000
+  },
+  {
+    "id": 93087122782197700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6 bis rue Ernest Renan",
+    "postCode": 92130,
+    "city": "Issy les Moulineaux",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 3622909832582580000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "25 rue Thiboumery",
+    "postCode": 75015,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 15450177838772900000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "24 RUE DES PIVOINES",
+    "postCode": 94140,
+    "city": "ALFORTVILLE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 95043089281674500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "33 rue du Commandant René Mouchotte",
+    "postCode": 75014,
+    "city": "PARIS",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 78710446401044200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "CHEZ MME MINIERE",
+    "postCode": 78700,
+    "city": "Conflans Saint Honorine.",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 13619654446058500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "9 Rue Marcello Mastroianni",
+    "postCode": 95500,
+    "city": "Gonnesse",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 52481266261732400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "BP 34 Bandjoun-Cameroun S/C chez M. MOKTO",
+    "postCode": "BP 34",
+    "city": "BANDJOUN",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 46449243639312600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "47 rue Ordener",
+    "postCode": 75018,
+    "city": "PARIS",
+    "id_class": 98081500000000000000
+  },
+  {
+    "id": 88786022930271400000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "",
+    "postCode": 78300,
+    "city": "POISSY",
+    "id_class": 99060400000000000000
+  },
+  {
+    "id": 77364358731345300000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "67 rue Bizet",
+    "postCode": 94800,
+    "city": "VILLEJUIF",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 81800180920007700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 AVENUE WEBER",
+    "postCode": 93500,
+    "city": "PANTIN",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 10654311857010800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 RUE DES HAIES",
+    "postCode": 93250,
+    "city": "VILLEMOBLE",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 79391507479075700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "11 rue de la croix bosset",
+    "postCode": 92310,
+    "city": "SEVRES",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 37390842578174600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "1 rue Valentine",
+    "postCode": 92190,
+    "city": "MEUDON",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 52073046815776100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "74 RUE ROGER SALENGRO",
+    "postCode": 93140,
+    "city": "BONDY",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 20702206044312100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "195 RUE DE FONTENAY",
+    "postCode": 94300,
+    "city": "VINCENNES",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 31205889512701400000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "5 SQUARE LEON BLUM",
+    "postCode": 77100,
+    "city": "Meaux",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 37616376071105700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "115 rue Jules Guesde",
+    "postCode": 92300,
+    "city": "Levallois-Perret",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 26246050264566300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "28 CHEMIN DES AULNETTES",
+    "postCode": 94460,
+    "city": "VALENTON",
+    "id_class": 98092600000000000000
+  },
+  {
+    "id": 26279240750942800000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "17 rue de la procession",
+    "postCode": 75015,
+    "city": "Paris",
+    "id_class": 65285100000000000000
+  },
+  {
+    "id": 90919829821943200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "13 rue Puccini",
+    "postCode": 94400,
+    "city": "Vitry-Sur-Seine",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 48959621076897200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 RUE DU MARECHAL JUIN",
+    "postCode": 91330,
+    "city": "YERRES",
+    "id_class": 69535900000000000000
+  },
+  {
+    "id": 4959230110180050000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "3 avenue des fruitiers",
+    "postCode": 93200,
+    "city": "Saint-Denis",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 99357500199161800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "29 rue Pierre Valette",
+    "postCode": 92240,
+    "city": "Malakoff",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 55919597674796300000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 Chemin des bourdons",
+    "postCode": 93220,
+    "city": "GAGNY",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 10022321549725800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "2 passage Carnot",
+    "postCode": 95200,
+    "city": "Sarcelles",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 87175935268678500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "24 RUE REMY",
+    "postCode": 95430,
+    "city": "AUVERS SUR OISE",
+    "id_class": 58880000000000000000
+  },
+  {
+    "id": 7066512854776920000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "78 RUE PAUL VAILLANT COUTURIER",
+    "postCode": 93200,
+    "city": "SAINT DENIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 64911544647175900000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "4 Rue Émile Agier",
+    "postCode": 92600,
+    "city": "Asnières-sur-Seine",
+    "id_class": 90568300000000000000
+  },
+  {
+    "id": 25790145791260500000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "27 AVENUE GUY MOQUET",
+    "postCode": 94300,
+    "city": "JOINVILLE LE PONT",
+    "id_class": 94152800000000000000
+  },
+  {
+    "id": 43697126585115700000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "27 sente de la cure",
+    "postCode": 93220,
+    "city": "Gagny",
+    "id_class": 42186200000000000000
+  },
+  {
+    "id": 92712559622106700000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "4 SQUARE JEAN GOUJON",
+    "postCode": 94500,
+    "city": "CHAMPS SUR PARNE",
+    "id_class": 86650700000000000000
+  },
+  {
+    "id": 59038660752955200000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "6 RUE DE BEAUVAU",
+    "postCode": 78000,
+    "city": "VERSAILLES",
+    "id_class": 19363700000000000000
+  },
+  {
+    "id": 15643005481090100000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "83 RUE VICTOR HUGO",
+    "postCode": 92270,
+    "city": "BOIS COLOMBES",
+    "id_class": 19363700000000000000
+  },
+  {
+    "id": 28748717345495800000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "75 AVENUE SIMON BOLIVAR",
+    "postCode": 75019,
+    "city": "PARIS",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 13880403098765600000,
+    "season": "2021-2022",
+    "cursus": "students",
+    "address": "29 RUE DES COUDES CORNETTES",
+    "postCode": 93230,
+    "city": "ROMAINVILLE",
+    "id_class": 32009200000000000000
+  },
+  {
+    "id": 12889718868827500000,
+    "season": "2021-2022",
+    "cursus": "interns",
+    "address": "2 RUE VIEILLE FORGE",
+    "postCode": 92170,
+    "city": "VANVES",
+    "id_class": 18865900000000000000
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.1",
+    "node-cron": "^3.0.0"
+  }
+}
