@@ -21,3 +21,5 @@ Commande qui permet d'importer les planning dans la base de données à partir d
 #### `npm run monthly-update`
 
 Ce script permet de mettre à jour la base de données tous les mois à l'aide d'un cron
+
+## Présence d'un fichier .env pour toutes les variables sensibles
