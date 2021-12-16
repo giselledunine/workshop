@@ -1,0 +1,488 @@
+[
+  {
+    "week": 35,
+    "month": "9-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 36,
+    "month": "9-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 37,
+    "month": "9-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 38,
+    "month": "9-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 39,
+    "month": "9-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 40,
+    "month": "10-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 41,
+    "month": "10-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 42,
+    "month": "10-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 43,
+    "month": "10-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 44,
+    "month": "11-2021",
+    "monday": "Férié",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 45,
+    "month": "11-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "Férié",
+    "friday": "OUI"
+  },
+  {
+    "week": 46,
+    "month": "11-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 47,
+    "month": "11-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 48,
+    "month": "11-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 49,
+    "month": "12-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 50,
+    "month": "12-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 51,
+    "month": "12-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 52,
+    "month": "12-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 1,
+    "month": "1-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 2,
+    "month": "1-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 3,
+    "month": "1-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 4,
+    "month": "1-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 5,
+    "month": "1-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 6,
+    "month": "2-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 7,
+    "month": "2-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 8,
+    "month": "2-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 9,
+    "month": "2-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 10,
+    "month": "3-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 11,
+    "month": "3-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 12,
+    "month": "3-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 13,
+    "month": "3-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 14,
+    "month": "4-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 15,
+    "month": "4-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 16,
+    "month": "4-2021",
+    "monday": "Férié",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 17,
+    "month": "4-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 18,
+    "month": "5-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 19,
+    "month": "5-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 20,
+    "month": "5-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 21,
+    "month": "5-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "Férié",
+    "friday": "NON"
+  },
+  {
+    "week": 22,
+    "month": "5-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "OUI",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 23,
+    "month": "6-2021",
+    "monday": "Férié",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 24,
+    "month": "6-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 25,
+    "month": "6-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 26,
+    "month": "6-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 27,
+    "month": "7-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "OUI"
+  },
+  {
+    "week": 28,
+    "month": "7-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "Férié",
+    "friday": "NON"
+  },
+  {
+    "week": 29,
+    "month": "7-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  },
+  {
+    "week": 30,
+    "month": "7-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 31,
+    "month": "8-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 32,
+    "month": "8-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 33,
+    "month": "8-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 34,
+    "month": "8-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 35,
+    "month": "8-2021",
+    "monday": "NON",
+    "tuesday": "NON",
+    "wednesday": "NON",
+    "thursday": "NON",
+    "friday": "NON"
+  },
+  {
+    "week": 36,
+    "month": "9-2021",
+    "monday": "OUI",
+    "tuesday": "OUI",
+    "wednesday": "OUI",
+    "thursday": "OUI",
+    "friday": "OUI"
+  }
+]

@@ -1,6 +1,13 @@
 {
   "dependencies": {
+    "axios": "^0.24.0",
     "firebase": "^9.6.1",
+    "moment": "^2.29.1",
     "node-cron": "^3.0.0"
+  },
+  "scripts": {
+    "students-initial-migration": "node migration.js",
+    "plannings-initial-migration": "node planningMigration.js",
+    "monthly-update": "node main.js"
   }
 }
