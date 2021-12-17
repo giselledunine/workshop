@@ -6,9 +6,9 @@ Ce dossier contient plusieurs scripts qui ont permis dans un premier temps de cr
 
 #### `npm run students-initial-migration`
 
-Commande qui permet de lancer le scipt, le fichier students.json est alors lu et importé dans la base de données firebase
+Commande qui permet de lancer le script, le fichier students.json est alors lu et importé dans la base de données firebase
 La collection users possède plusieurs documents qui correspond au différents élèves classé par id
-Chaque document possède les informations suivante :
+Chaque document possède les informations suivantes :
 - id
 - id_class
 - address
@@ -25,9 +25,9 @@ Cette base servait initialement à calculer a l'aide de monthly update les conso
 
 #### `npm run plannings-initial-migration`
 
-Commande qui permet d'importer les plannings dans la base de données à partir des différents fichier JSON planning.
-La collection planning possède plusieurs documents qui correspond au différentes types de classe
-Chaque document possède les informations suivante :
+Commande qui permet d'importer les plannings dans la base de données à partir des différents fichiers JSON planning.
+La collection planning possède plusieurs documents qui correspond aux différents types de classe
+Chaque document possède les informations suivantes :
 - Tableau id Class
 - Tableau avec toutes les semaines, chaque éléments du tableau possèdes les champs suivant : (id_class : [array], monday: [string], tuesday: [string], wednesday: [string], thursday:  [string], friday: [string], workDay: [int], schoolDay: [int], week: [int])
 
@@ -38,8 +38,8 @@ Chaque document possède les informations suivante :
 #### `npm run monthly-update`
 
 Ce script permet de mettre à jour la base de données tous les mois à l'aide d'un cron
-La collection posts possède plusieurs documents qui correspond au différentes types de classe
-Chaque document possède les informations suivante :
+La collection posts possède plusieurs documents qui correspond aux différents types de classe
+Chaque document possède les informations suivantes :
 - id
 - id_class
 - address
