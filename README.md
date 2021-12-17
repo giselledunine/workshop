@@ -40,9 +40,9 @@ Chaque document possède les informations suivantes :
   - schoolDay
   - week
 
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/planning(1).png" alt="planning1"/>
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/plannnig(2).png" alt="planning2"/>
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/planning(3).png" alt="planning3"/>
+<img src="./images/planning(1).png" alt="planning1"/>
+<img src="./images/plannnig(2).png" alt="planning2"/>
+<img src="./images/planning(3).png" alt="planning3"/>
 
 ### A l'avenir les fichiers json des étudiants et des planings seront séparé dans deux dossier distinctes pour une meilleur organisation et pour qu'ils soient plus simple à remplacer
 
@@ -67,9 +67,9 @@ Chaque document possède les informations suivantes :
 - work_co2
 - work_distance
   
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(1).png" alt="planning1"/>
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(2).png" alt="planning2"/>
-<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(3).png" alt="planning3"/>
+<img src="./images/posts(1).png" alt="planning1"/>
+<img src="./images/posts(2).png" alt="planning2"/>
+<img src="./images/posts(3).png" alt="planning3"/>
 
 ## Présence d'un fichier .env pour toutes les variables sensibles
 
