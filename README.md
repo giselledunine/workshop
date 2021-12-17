@@ -2,7 +2,7 @@
 
 Ce dossier contient plusieurs scripts qui ont permis dans un premier temps de créer la base de donné à partir de fichier CSV qui on été traduit en fichier JSON.
 
-## Fichier d'import élève
+## Fichier d'import élève : /migration.js
 
 #### `npm run students-initial-migration`
 
@@ -21,7 +21,7 @@ Chaque document possède les informations suivantes :
 
 Cette base servait initialement à calculer a l'aide de monthly update les conso en co2 de chaque élève et mettre les infos dans posts mais cette manipulation se fait via l'application React maintenant
 
-## Fichier d'import planning
+## Fichier d'import planning : /planningMigration.js
 
 #### `npm run plannings-initial-migration`
 
@@ -40,13 +40,11 @@ Chaque document possède les informations suivantes :
   - schoolDay
   - week
 
-<img src="./images/planning(1).png" alt="planning1"/>
-<img src="./images/plannnig(2).png" alt="planning2"/>
-<img src="./images/planning(3).png" alt="planning3"/>
+Vous pouvez voir le détail des calcules dans le script
 
 ### A l'avenir les fichiers json des étudiants et des planings seront séparé dans deux dossier distinctes pour une meilleur organisation et pour qu'ils soient plus simple à remplacer
 
-## Fichier de mise à jour de la base élève (run constament sur le serveur)
+## Fichier de mise à jour de la base élève (run constament sur le serveur) : /main.js
 
 #### `npm run monthly-update`
 
@@ -66,10 +64,8 @@ Chaque document possède les informations suivantes :
 - cursus
 - work_co2
 - work_distance
-  
-<img src="./images/posts(1).png" alt="planning1"/>
-<img src="./images/posts(2).png" alt="planning2"/>
-<img src="./images/posts(3).png" alt="planning3"/>
+
+Vous  pouvez voir le détail des calculs dans le script
 
 ## Présence d'un fichier .env pour toutes les variables sensibles
 
