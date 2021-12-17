@@ -29,7 +29,20 @@ Commande qui permet d'importer les plannings dans la base de données à partir 
 La collection planning possède plusieurs documents qui correspond aux différents types de classe
 Chaque document possède les informations suivantes :
 - Tableau id Class
-- Tableau avec toutes les semaines, chaque éléments du tableau possèdes les champs suivant : (id_class : [array], monday: [string], tuesday: [string], wednesday: [string], thursday:  [string], friday: [string], workDay: [int], schoolDay: [int], week: [int])
+- Tableau avec toutes les semaines, chaque éléments du tableau possèdes les champs suivant : 
+  - id_class 
+  - monday
+  - tuesday
+  - wednesday
+  - thursday
+  - friday
+  - workDay
+  - schoolDay
+  - week
+
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/planning(1).png" alt="planning1"/>
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/plannnig(2).png" alt="planning2"/>
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/planning(3).png" alt="planning3"/>
 
 ### A l'avenir les fichiers json des étudiants et des planings seront séparé dans deux dossier distinctes pour une meilleur organisation et pour qu'ils soient plus simple à remplacer
 
@@ -53,6 +66,10 @@ Chaque document possède les informations suivantes :
 - cursus
 - work_co2
 - work_distance
+  
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(1).png" alt="planning1"/>
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(2).png" alt="planning2"/>
+<img src="/Users/sophiahmamouche/Desktop/workshop/images/posts(3).png" alt="planning3"/>
 
 ## Présence d'un fichier .env pour toutes les variables sensibles
 
