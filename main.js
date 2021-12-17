@@ -7,6 +7,7 @@ const { initializeApp } = require("firebase/app");
 const { getFirestore } = require("firebase/firestore");
 const { default: axios } = require("axios");
 const fs = require("fs");
+const cron = require('node-cron');
 
 // Configuration Firebase
 const firebaseConfig = {
@@ -33,9 +34,12 @@ const updateDataBase = async() => {
   let users = []
   getUsers.forEach(user => users.push(user.data()))
 
-  for (const user, index of users) {
+  for (const user of users) {
 
     console.log(user.cursus);
+
+    const transports = ['Walk', 'Rer', 'Car', 'Bus', 'Lignes long courrier']
+    const i = Math.floor(Math.random() * 5)
     
     //Initialisation des données
     let address_coordinates = null;
@@ -45,6 +49,7 @@ const updateDataBase = async() => {
     let work_distance = null;
     let adress_co2 = null;
     let work_co2 = null;
+    let transport = transports[i];
 
     //Formater les adresse pour la requête
     let address = user.address.toString().replaceAll(' ', '+');
@@ -136,14 +141,17 @@ const updateDataBase = async() => {
     let temp = {
       adresse_distance: adresse_distance,
       work_distance: work_distance,
-      work_co2: work_co2 || adress_co2,
-      adress_co2: adress_co2 || work_co2
+      work_co2: work_co2*2 || adress_co2*2,
+      adress_co2: adress_co2*2 || work_co2*2,
+      transport: transport
     }
+
+    console.log(temp)
 
     // Modification de l'utilisateur dans Firebase
     updateDoc(doc(db, "posts", user.id.toString()), temp)
     .then((res)=> {
-      console.log('--- User numéro :', index, ' - id : ',user.id, 'modifié avec succé 🟢 ---')
+      console.log('--- User ',user.id, ' modifié avec succé 🟢 ---')
     })
     .catch((err) => {
       console.log(err)
@@ -151,7 +159,9 @@ const updateDataBase = async() => {
   }
 }
 
+updateDataBase();
+
 // Cron qui permet de mettre à jour la base de données des élèves tous les mois
 cron.schedule('0 0 1 * *', async() => {
-  updateDataBase();
+  console.log('cron')
 });

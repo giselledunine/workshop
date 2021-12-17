@@ -2,7 +2,6 @@
 
 // Import de tous les éléments nécessaire
 
-var cron = require('node-cron');
 const { doc, setDoc } = require("firebase/firestore"); 
 const { initializeApp } = require("firebase/app");
 const { getFirestore } = require("firebase/firestore");

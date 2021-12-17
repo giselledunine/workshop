@@ -23,3 +23,18 @@ Commande qui permet d'importer les planning dans la base de données à partir d
 Ce script permet de mettre à jour la base de données tous les mois à l'aide d'un cron
 
 ## Présence d'un fichier .env pour toutes les variables sensibles
+
+Les variables sensibles tel que les clés API sont disponibles dans le .env accessible via  `process.env.[NOM-DE-LA-CLEF]`
+
+## Mise en place du projet
+
+Pour l'utilisation du projet, installation des dépendances suivantes :
+
+`npm install axios` pour les requêtes api <br/>
+`npm install firebase` pour récupérer les données sur la base <br/>
+`npm install moment` pour obtenir les dates <br/>
+`npm install node-cron` pour la mise à jour par mois des données
+
+## Déploiement du script
+
+Google Cloud : serveur distant sur lequel le script peur tourner en continu
