@@ -1,11 +1,26 @@
 //! But du script : Importer les premieres données dans la base plannings (planning de chaque type de classes)
 
 //Import de tous les éléments nécessaire
-var cron = require('node-cron');
-const { doc, setDoc } = require("firebase/firestore"); 
+let cron = require('node-cron');
+const { doc, updateDoc } = require("firebase/firestore");
 const { initializeApp } = require("firebase/app");
 const { getFirestore } = require("firebase/firestore");
 const fs = require("fs");
+
+// Configuration Firebase
+const firebaseConfig = {
+    apiKey: "AIzaSyC9SVhPvjzGEzzc4TLAYaAAbppWi_AcUQo",
+    authDomain: "dataco2-8f888.firebaseapp.com",
+    databaseURL: "https://dataco2-8f888-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "dataco2-8f888",
+    storageBucket: "dataco2-8f888.appspot.com",
+    messagingSenderId: "228963406020",
+    appId: "1:228963406020:web:ed8252a3f1463c6363b991",
+    measurementId: "G-QXFP91DHHC"
+};
+
+initializeApp(firebaseConfig);
+const db = getFirestore();
 
 // Lectures de tous les fichiers JSON des plannings
 const getPlanning1 = fs.readFileSync('./planningCPD-B3.json', 'utf8' , (err, res) => {
@@ -67,83 +82,43 @@ const planning7 = JSON.parse(getPlanning7);
 
 // Importation inital de tous les plannings
 
-setDoc(doc(db, "planning", "CPD-B3"), {
-    weeks: [
-        ...planning1
-    ]
-})
-.then((res)=> {
-    console.log('--- Planning 1 ajouté avec succé 🟢 ---')
-}).catch((err) => {
-    console.log(err)
-});
+const setPlanning = (plan, name) => {
 
-setDoc(doc(db, "planning", "DA-UX"), {
-    weeks: [
-        ...planning2
-    ]
-})
-.then((res)=> {
-    console.log('--- Planning 2 ajouté avec succé 🟢 ---')
-}).catch((err) => {
-    console.log(err)
-});
+    let weeks = plan.map((el) => {
+        const days = Object.keys(el);
+        let workDays = 0;
+        let holidays = 0;
 
-setDoc(doc(db, "planning", "DAA-DAB-SMW-VABC"), {
-    weeks: [
-        ...planning3
-    ]
-})
-.then((res)=> {
-    console.log('--- Planning 3 ajouté avec succé 🟢 ---')
-})
-.catch((err) => {
-    console.log(err)
-});
+        for (const day of days) {
+            if(el[day] === "NON"){
+                workDays ++
+            }
+            if(el[day] === "Férié"){
+                holidays ++
+            }
+        }
+        return {
+            workDays,
+            schoolDays : 5 - workDays - holidays,
+            ...el
+        }
+    })
 
-setDoc(doc(db, "planning", "DAA-DAB-SMW-VDE"), {
-    weeks: [
-        ...planning4
-    ]
-})
-.then((res)=> {
-    console.log('--- Planning 4 ajouté avec succé 🟢 ---')
-})
-.catch((err) => {
-    console.log(err)
-});
+    const temp = {
+        weeks,
+    }
+    updateDoc( doc( db, "planning", name), temp)
+    .then((res)=> {
+        console.log('--- Planning ajouté avec succé 🟢 ---')
+    }).catch((err) => {
+        console.log(err)
+    });
+}
 
-setDoc(doc(db, "planning", "MDBCV-MDDM"), {
-    weeks: [
-        ...planning5
-    ]
-})  
-.then((res)=> {
-    console.log('--- Planning 5 ajouté avec succé 🟢 ---')
-})
-.catch((err) => {
-    console.log(err)
-});
-
-setDoc(doc(db, "planning", "TD6-CPD"), {
-    weeks: [
-        ...planning6
-    ]
-})
-.then((res)=> {
-    console.log('--- Planning 6 ajouté avec succé 🟢 ---')
-})
-.catch((err) => {
-    console.log(err)
-});
-
-setDoc(doc(db, "planning", "TL"), {
-    weeks: [
-        ...planning7
-    ]
-})  
-.then((res)=> {
-    console.log('--- Planning 7 ajouté avec succé 🟢 ---')
-}).catch((err) => {
-    console.log(err)
-});
+setPlanning(planning1, "CPD-B3");
+setPlanning(planning2, "DA-UX");
+setPlanning(planning3, "DAA-DAB-SMW-VABC");
+setPlanning(planning4, "DAA-DAB-SMW-VDE");
+setPlanning(planning5, "MDBCV-MDDM");
+setPlanning(planning6, "TD6-CPD");
+setPlanning(planning7, "TL");
