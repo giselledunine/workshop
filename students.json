@@ -1,18 +1,6 @@
 [
   {
     "season": "2021-2022",
-    "cursus": "students",
-    "address": "LA VENTE",
-    "postCode": 49390,
-    "city": "Mouliherne",
-    "id": 87826311370296670000,
-    "id_class": 98081545639010400000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
     "cursus": "interns",
     "address": "20 rue Firmin Gillot",
     "postCode": 75015,
@@ -187,18 +175,6 @@
     "city": "Bourg la Reine",
     "id": 24996403752225796000,
     "id_class": 98081545639010400000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "students",
-    "address": "7p boulevard jourdan, Andre de Gouveia, Maison du Portugal",
-    "postCode": 75014,
-    "city": "Paris",
-    "id": 61005030738821860000,
-    "id_class": 86650652074839200000,
     "work_address": "#N/A",
     "work_postCode": "#N/A",
     "work_city": "#N/A"
@@ -469,18 +445,6 @@
   },
   {
     "season": "2021-2022",
-    "cursus": "students",
-    "address": "residence GARIFUNA, Bâtiment L Escalier 20 porte 6",
-    "postCode": 97290,
-    "city": "Le marin",
-    "id": 1953404783432997600,
-    "id_class": 86650652074839200000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
     "cursus": "interns",
     "address": "33 Allée Simon Saint Jean",
     "postCode": 69130,
@@ -638,18 +602,6 @@
   {
     "season": "2021-2022",
     "cursus": "interns",
-    "address": "Lieu dit i mulini",
-    "postCode": 20190,
-    "city": "Santa Maria Siche",
-    "id": 37825599519017394000,
-    "id_class": 64057565100483500000,
-    "work_address": "92 avenue des Ternes",
-    "work_postCode": 75017,
-    "work_city": "Paris"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
     "address": "10 rue de Furstenfeldbruck",
     "postCode": 93190,
     "city": "Livry-Gargan",
@@ -766,18 +718,6 @@
     "work_address": "#N/A",
     "work_postCode": "#N/A",
     "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
-    "address": "Lieu dit Canaso",
-    "postCode": 20190,
-    "city": "Santa Maria Siche",
-    "id": 67936952632105026000,
-    "id_class": 51077828107119900000,
-    "work_address": "92 avenue des Ternes",
-    "work_postCode": 75017,
-    "work_city": "Paris"
   },
   {
     "season": "2021-2022",
@@ -1346,7 +1286,7 @@
   {
     "season": "2021-2022",
     "cursus": "interns",
-    "address": "56, rue de al fontaine au roi",
+    "address": "56 rue de al fontaine au roi",
     "postCode": 75011,
     "city": "Paris",
     "id": 58629579250433480000,
@@ -2786,18 +2726,6 @@
   {
     "season": "2021-2022",
     "cursus": "interns",
-    "address": "chez mme Katarzina Spalik",
-    "postCode": 94110,
-    "city": "Arcueil",
-    "id": 60167829651768025000,
-    "id_class": 65285059947142000000,
-    "work_address": "25 Rue Balard",
-    "work_postCode": 75015,
-    "work_city": "Paris"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
     "address": "11 Résidence Les Marelles",
     "postCode": 91800,
     "city": "Boussy-Saint-Antoine",
@@ -3746,18 +3674,6 @@
   {
     "season": "2021-2022",
     "cursus": "students",
-    "address": "Tevragh-Zeïna",
-    "postCode": 99,
-    "city": "Nouakchott (Mauritanie)",
-    "id": 59436204758727650000,
-    "id_class": 99060373198634700000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "students",
     "address": "10 AVENUE JEAN PERRIN",
     "postCode": 92330,
     "city": "SCEAUX",
@@ -4006,18 +3922,6 @@
     "work_address": "#N/A",
     "work_postCode": "#N/A",
     "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
-    "address": "Chez M. MAJERI Achraf",
-    "postCode": 93300,
-    "city": "Aubervilliers",
-    "id": 68264230577539146000,
-    "id_class": 67800944844426400000,
-    "work_address": "5, rue de la Terrasse",
-    "work_postCode": 75017,
-    "work_city": "Paris"
   },
   {
     "season": "2021-2022",
@@ -4774,18 +4678,6 @@
     "work_address": "",
     "work_postCode": "",
     "work_city": ""
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "students",
-    "address": "Hay Walaa IMM2 TR5 NR8 SECT2 SM",
-    "postCode": 20000,
-    "city": "Casablanca",
-    "id": 2622933314360457000,
-    "id_class": 49273758189005500000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
   },
   {
     "season": "2021-2022",
@@ -8173,18 +8065,6 @@
   },
   {
     "season": "2021-2022",
-    "cursus": "interns",
-    "address": "38BIS AV. NDUALA Q.",
-    "postCode": "0000",
-    "city": "KINSHASA",
-    "id": 93884822643205340000,
-    "id_class": 86650652074839200000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
     "cursus": "students",
     "address": "78 RUE PAUL VAILLANT COUTURIER",
     "postCode": 93200,
@@ -8310,30 +8190,6 @@
     "postCode": 45000,
     "city": "Orléans",
     "id": 5446219733188127000,
-    "id_class": 86650652074839200000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
-    "address": "CITE COMICO 4 DE YEUMBEUL",
-    "postCode": "0000",
-    "city": "Dakar",
-    "id": 75273172998398900000,
-    "id_class": 86650652074839200000,
-    "work_address": "#N/A",
-    "work_postCode": "#N/A",
-    "work_city": "#N/A"
-  },
-  {
-    "season": "2021-2022",
-    "cursus": "interns",
-    "address": "Dassasgho, rue 28",
-    "postCode": "01 BP 85",
-    "city": "Ouagadougou",
-    "id": 50516305800433975000,
     "id_class": 86650652074839200000,
     "work_address": "#N/A",
     "work_postCode": "#N/A",
